@@ -1,0 +1,8 @@
+Build started 16/08/2012 2:09:50 PM.
+     1>Project "C:\Users\eric\Documents\Visual Studio 2010\Projects\C++ Final\C++ Final\C++ Final.vcxproj" on node 2 (build target(s)).
+     1>c:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Tasks : error MSB4025: The project file could not be loaded. Root element is missing.
+     1>Done Building Project "C:\Users\eric\Documents\Visual Studio 2010\Projects\C++ Final\C++ Final\C++ Final.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.00
