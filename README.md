@@ -8,8 +8,11 @@ A simulation of shopping is what this program is all about.
 FEATURES
 
 >Print available items with their prices
+
 >Add items to cart
+
 >Print receipt
+
 >Leave the store
 
 (c) Eric Sund
